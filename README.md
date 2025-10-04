@@ -19,5 +19,8 @@ Our mission is to create a reliable and transparent digital asset that provides 
 - 🔗 [BscScan Contract](https://bscscan.com/token/0x78638e99Da09D6dba7F1f330C12d78C24f6badB)  
 - 💱 [Trade on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x78638E99Da09D6dba7F1f330C12Dd78C24f6badB)  
 
+## Logo  
+<img src="zuzu_logo_32x32.svg" alt="ZUZU Logo" width="64" height="64">
+
 ## License
 This project is licensed under the MIT License.
