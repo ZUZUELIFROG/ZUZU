@@ -1,6 +1,6 @@
 # ZUZU Token (BEP-20)
 
-*Contract Address:* 0x78638e99Da09D6dba7F1f330C12d78C24f6badB  
+*Contract Address:* 0x78638E99Da09D6dba7F1f330C12Dd78C24f6badB  
 *Network:* Binance Smart Chain (BEP-20)  
 *Symbol:* ZUZU  
 
