@@ -84,13 +84,16 @@ that empowers newcomers, supports crypto creators, and strengthens unity across 
 - ✅ Transparent smart contract available on BscScan  
 - ✅ Aimed at creating long-term value and utility  
 
-## Links
+## 🔗 Links
 - 🌐 [Official Website](https://zuzutoken.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/zuzutoken/)
 - 🐦 [Twitter / X](https://x.com/ZuzuUsdt)
 - 💬 [Join our Telegram](https://t.me/zuzutoke)
-- 📊 [BscScan Contract](https://bscscan.com/token/0x78638E99Da09D6dba7F1f330C12Dd78C24f6badB)
-- 💱 [Trade on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x78638E99Da09D6dba7F1f330C12Dd78C24f6badB&chain=bsc&inputCurrency=0x55d398326f99059fF775485246999027B3197955)
+- 🔍 [BscScan Contract](https://bscscan.com/token/0x78638E99Da09D6dba7F1f330C12Dd78C24f6badB)
+- 💱 [Trade on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x78638E99Da09D6dba7F1f330C12Dd78C24f6badB&chain=bsc)
+- 📄 [Official Whitepaper (PDF)](https://github.com/ZUZUELIFROG/ZUZU/raw/main/ZUZU_Official_Whitepaper_2025.pdf)
+
+
 ## Logo
 <img src="zuzu_logo_32x32.svg" alt="ZUZU Logo">
 ---
