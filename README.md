@@ -92,7 +92,7 @@ that empowers newcomers, supports crypto creators, and strengthens unity across 
 - 🔍 [BscScan Contract](https://bscscan.com/token/0x78638E99Da09D6dba7F1f330C12Dd78C24f6badB)
 - 💱 [Trade on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x78638E99Da09D6dba7F1f330C12Dd78C24f6badB&chain=bsc)
 - 📄 [Official Whitepaper (PDF)](https://github.com/ZUZUELIFROG/ZUZU/raw/main/ZUZU_Official_Whitepaper_2025.pdf)
-
+-    OpenSea: https://opensea.io/0x2ff06131534f9465d112f74e831c8274749bcd8b
 
 ## Logo
 <img src="zuzu_logo_32x32.svg" alt="ZUZU Logo">
